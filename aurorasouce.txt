@@ -1,0 +1,13 @@
+./aurora
+
++colourchooser
++lightworks
++customai
++objectgenerator
++autoupdater
++physicsfor3d
++vulkan
++directx11
++directx12
++customsoundengine
++custominstrumentpanel
