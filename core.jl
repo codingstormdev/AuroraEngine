@@ -1,15 +1,25 @@
 using Gtk
 
-mainwindow = GtkWindow("AuroraEngine Executable", 400, 200)
+function run()
+    mainwindow = GtkWindow("AuroraEngine Executable", 800, 600)
 
-push!(mainwindow) # here you can add your own Gtk things
+    showall(mainwindow)
+end
 
+function ColourChooser()
 
+end
 
-"""
-heres should be placed main code
-"""
+function Lightworks()
+  
+end
 
+function Physics()
+  
+end
 
+function InstrumentPack()
 
-showall(mainwindow)
+end
+
+run()

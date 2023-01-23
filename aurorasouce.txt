@@ -1,5 +1,7 @@
 ./aurora
 
+=mainwindowrender
+
 +colourchooser
 +lightworks
 +customai
@@ -11,3 +13,5 @@
 +directx12
 +customsoundengine
 +custominstrumentpanel
++rtx
++projectmenu
